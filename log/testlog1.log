@@ -1,0 +1,940 @@
+2024-05-12 16:47:01,502 [main] INFO snetBAnking - URL is Opened
+2024-05-12 16:48:47,535 [main] INFO snetBAnking - URL is Opened
+2024-05-12 16:50:22,435 [main] INFO snetBAnking - URL is Opened
+2024-05-12 16:50:29,622 [main] INFO snetBAnking - Entered Username & Password
+2024-05-12 16:52:07,334 [main] INFO snetBAnking - URL is Opened
+2024-05-12 16:52:14,272 [main] INFO snetBAnking - Entered Username & Password
+2024-05-12 16:52:14,292 [main] INFO snetBAnking - Login Test Passed
+2024-05-12 19:38:22,659 [main] INFO snetBAnking - URL is Opened
+2024-05-12 19:38:28,746 [main] INFO snetBAnking - Entered Username & Password
+2024-05-12 19:38:28,760 [main] INFO snetBAnking - Login Test Passed
+2024-05-12 20:25:13,389 [main] INFO snetBAnking - URL is Opened
+2024-05-12 20:25:19,748 [main] INFO snetBAnking - Entered Username & Password
+2024-05-12 20:25:19,764 [main] INFO snetBAnking - Login Test Passed
+2024-05-12 20:42:26,923 [main] INFO snetBAnking - URL is Opened
+2024-05-12 20:42:33,557 [main] INFO snetBAnking - Entered Username & Password
+2024-05-12 20:42:33,572 [main] INFO snetBAnking - Login Test Passed
+2024-05-12 20:49:04,789 [main] INFO snetBAnking - URL is Opened
+2024-05-12 20:49:11,938 [main] INFO snetBAnking - Entered Username & Password
+2024-05-12 20:49:11,974 [main] INFO snetBAnking - Login Test Passed
+2024-05-12 23:17:38,789 [main] INFO snetBAnking - URL is Opened
+2024-05-12 23:17:49,556 [main] INFO snetBAnking - Entered Username & Password
+2024-05-12 23:17:49,577 [main] INFO snetBAnking - Login Test Passed
+2024-05-13 13:13:39,108 [main] INFO snetBAnking - URL is Opened
+2024-05-13 13:13:47,558 [main] INFO snetBAnking - Entered Username & Password
+2024-05-13 15:28:42,282 [main] INFO snetBAnking - URL is Opened
+2024-05-13 15:28:47,799 [main] INFO snetBAnking - Entered Username & Password
+2024-05-13 17:03:51,496 [main] INFO snetBAnking - URL is Opened
+2024-05-13 17:03:57,096 [main] INFO snetBAnking - Entered Username & Password
+2024-05-13 17:04:48,357 [main] INFO snetBAnking - URL is Opened
+2024-05-13 17:04:53,065 [main] INFO snetBAnking - Entered Username & Password
+2024-05-13 17:05:43,808 [main] INFO snetBAnking - URL is Opened
+2024-05-13 17:05:49,121 [main] INFO snetBAnking - Entered Username & Password
+2024-05-13 17:07:03,378 [main] INFO snetBAnking - URL is Opened
+2024-05-13 17:07:08,616 [main] INFO snetBAnking - Entered Username & Password
+2024-05-13 17:12:49,191 [main] INFO snetBAnking - URL is Opened
+2024-05-13 17:12:50,355 [main] INFO snetBAnking - Entered Username
+2024-05-13 17:12:51,474 [main] INFO snetBAnking - Entered Password
+2024-05-13 17:12:53,894 [main] INFO snetBAnking - Login Successfull
+2024-05-13 17:13:58,309 [main] INFO snetBAnking - URL is Opened
+2024-05-13 17:13:59,486 [main] INFO snetBAnking - Entered Username
+2024-05-13 17:14:00,583 [main] INFO snetBAnking - Entered Password
+2024-05-13 17:14:03,573 [main] INFO snetBAnking - Login Successfull
+2024-05-13 17:14:52,282 [main] INFO snetBAnking - URL is Opened
+2024-05-13 17:14:53,468 [main] INFO snetBAnking - Entered Username
+2024-05-13 17:14:54,583 [main] INFO snetBAnking - Entered Password
+2024-05-13 17:14:57,871 [main] INFO snetBAnking - Login Successfull
+2024-05-13 17:15:56,536 [main] INFO snetBAnking - URL is Opened
+2024-05-13 17:15:57,760 [main] INFO snetBAnking - Entered Username
+2024-05-13 17:15:58,873 [main] INFO snetBAnking - Entered Password
+2024-05-13 17:16:01,858 [main] INFO snetBAnking - Login Successfull
+2024-05-13 17:35:50,004 [main] INFO snetBAnking - URL is Opened
+2024-05-13 17:35:51,174 [main] INFO snetBAnking - Entered Username
+2024-05-13 17:35:52,283 [main] INFO snetBAnking - Entered Password
+2024-05-13 17:35:55,283 [main] INFO snetBAnking - Login Successfull
+2024-05-13 17:37:50,222 [main] INFO snetBAnking - URL is Opened
+2024-05-13 17:37:51,425 [main] INFO snetBAnking - Entered Username
+2024-05-13 17:37:52,518 [main] INFO snetBAnking - Entered Password
+2024-05-13 17:37:55,817 [main] INFO snetBAnking - Login Successfull
+2024-05-13 19:23:47,129 [main] INFO snetBAnking - URL is Opened
+2024-05-13 19:23:48,494 [main] INFO snetBAnking - Entered Username
+2024-05-13 19:23:49,662 [main] INFO snetBAnking - Entered Password
+2024-05-13 19:23:54,330 [main] INFO snetBAnking - Login Successfull
+2024-05-13 19:23:54,346 [main] INFO snetBAnking - Login Test Passed
+2024-05-13 20:52:52,093 [main] INFO snetBAnking - URL is Opened
+2024-05-13 21:52:12,396 [main] INFO snetBAnking - URL is Opened
+2024-05-13 21:52:13,714 [main] INFO snetBAnking - Entered Username
+2024-05-13 21:52:14,870 [main] INFO snetBAnking - Entered Password
+2024-05-13 21:52:18,416 [main] INFO snetBAnking - Login Successfull
+2024-05-13 21:52:18,434 [main] INFO snetBAnking - Login Test Passed
+2024-05-13 22:01:25,508 [main] INFO snetBAnking - URL is Opened
+2024-05-13 22:01:26,761 [main] INFO snetBAnking - Entered Username
+2024-05-13 22:01:27,920 [main] INFO snetBAnking - Entered Password
+2024-05-13 22:01:33,363 [main] INFO snetBAnking - Login Successfull
+2024-05-13 22:01:33,381 [main] INFO snetBAnking - Login Test Passed
+2024-05-15 23:39:52,863 [main] INFO snetBAnking - URL is Opened
+2024-05-15 23:39:54,218 [main] INFO snetBAnking - Entered Username
+2024-05-15 23:39:55,405 [main] INFO snetBAnking - Entered Password
+2024-05-15 23:39:59,888 [main] INFO snetBAnking - Login Successfull
+2024-05-15 23:39:59,921 [main] INFO snetBAnking - Login Test Passed
+2024-05-15 23:52:33,732 [main] INFO snetBAnking - URL is Opened
+2024-05-15 23:53:17,970 [main] INFO snetBAnking - URL is Opened
+2024-05-16 00:00:57,259 [main] INFO snetBAnking - URL is Opened
+2024-05-16 00:03:00,068 [main] INFO snetBAnking - URL is Opened
+2024-05-16 00:04:10,028 [main] INFO snetBAnking - URL is Opened
+2024-05-16 00:05:40,341 [main] INFO snetBAnking - URL is Opened
+2024-05-16 00:06:23,589 [main] INFO snetBAnking - URL is Opened
+2024-05-16 00:09:08,528 [main] INFO snetBAnking - URL is Opened
+2024-05-16 11:17:37,476 [main] INFO snetBAnking - URL is Opened
+2024-05-16 11:20:31,663 [main] INFO snetBAnking - URL is Opened
+2024-05-16 12:17:57,754 [main] INFO snetBAnking - URL is Opened
+2024-05-16 12:37:50,166 [main] INFO snetBAnking - URL is Opened
+2024-05-16 12:53:23,750 [main] INFO snetBAnking - URL is Opened
+2024-05-16 16:22:10,234 [main] INFO snetBAnking - URL is Opened
+2024-05-16 19:44:21,630 [main] INFO snetBAnking - URL is Opened
+2024-05-16 19:52:41,377 [main] INFO snetBAnking - URL is Opened
+2024-05-16 19:52:42,881 [main] INFO snetBAnking - Entered Username
+2024-05-16 19:52:44,083 [main] INFO snetBAnking - Entered Password
+2024-05-16 19:52:50,432 [main] INFO snetBAnking - Login Successfull
+2024-05-16 19:52:50,451 [main] INFO snetBAnking - Login Test Passed
+2024-05-16 19:54:36,599 [main] INFO snetBAnking - URL is Opened
+2024-05-16 20:16:42,677 [main] INFO snetBAnking - URL is Opened
+2024-05-16 20:22:44,311 [main] INFO snetBAnking - URL is Opened
+2024-05-16 20:36:18,839 [main] INFO snetBAnking - URL is Opened
+2024-05-16 20:43:08,207 [main] INFO snetBAnking - URL is Opened
+2024-05-16 20:43:51,390 [main] INFO snetBAnking - URL is Opened
+2024-05-16 20:44:40,644 [main] INFO snetBAnking - URL is Opened
+2024-05-16 20:51:54,275 [main] INFO snetBAnking - URL is Opened
+2024-05-16 20:52:59,682 [main] INFO snetBAnking - URL is Opened
+2024-05-16 20:56:44,025 [main] INFO snetBAnking - URL is Opened
+2024-05-16 20:58:10,131 [main] INFO snetBAnking - URL is Opened
+2024-05-16 21:01:54,351 [main] INFO snetBAnking - URL is Opened
+2024-05-16 23:39:59,215 [main] INFO snetBAnking - URL is Opened
+2024-05-16 23:41:53,592 [main] INFO snetBAnking - URL is Opened
+2024-05-17 00:07:58,436 [main] INFO snetBAnking - URL is Opened
+2024-05-17 00:07:58,771 [main] INFO snetBAnking - URL is Opened
+2024-05-17 11:06:59,412 [main] INFO snetBAnking - URL is Opened
+2024-05-17 11:29:37,011 [main] INFO snetBAnking - URL is Opened
+2024-05-17 11:32:31,219 [main] INFO snetBAnking - URL is Opened
+2024-05-17 11:32:32,405 [main] INFO snetBAnking - Entered Username
+2024-05-17 11:32:33,520 [main] INFO snetBAnking - Entered Password
+2024-05-17 11:32:38,644 [main] INFO snetBAnking - Login Successfull
+2024-05-17 11:32:38,655 [main] INFO snetBAnking - Login Test Passed
+2024-05-17 11:37:16,112 [main] INFO snetBAnking - URL is Opened
+2024-05-17 11:39:33,363 [main] INFO snetBAnking - URL is Opened
+2024-05-17 11:40:47,413 [main] INFO snetBAnking - URL is Opened
+2024-05-17 12:37:41,531 [main] INFO snetBAnking - URL is Opened
+2024-05-17 12:44:20,633 [main] INFO snetBAnking - URL is Opened
+2024-05-17 12:44:21,822 [main] INFO snetBAnking - Entered Username
+2024-05-17 12:44:22,947 [main] INFO snetBAnking - Entered Password
+2024-05-17 12:44:26,959 [main] INFO snetBAnking - Login Successfull
+2024-05-17 12:44:26,969 [main] INFO snetBAnking - Login Test Passed
+2024-05-17 13:02:30,163 [main] INFO snetBAnking - URL is Opened
+2024-05-17 13:02:31,296 [main] INFO snetBAnking - Entered Username
+2024-05-17 13:02:32,387 [main] INFO snetBAnking - Entered Password
+2024-05-17 13:02:36,496 [main] INFO snetBAnking - Login Successfull
+2024-05-17 13:02:36,509 [main] INFO snetBAnking - Login Test Passed
+2024-05-17 20:38:01,381 [main] INFO snetBAnking - URL is Opened
+2024-05-17 20:38:02,919 [main] INFO snetBAnking - Entered Username
+2024-05-17 20:38:04,054 [main] INFO snetBAnking - Entered Password
+2024-05-17 20:38:11,407 [main] INFO snetBAnking - Login Successfull
+2024-05-17 20:38:11,437 [main] INFO snetBAnking - Login Test Passed
+2024-05-17 20:41:03,989 [main] INFO snetBAnking - URL is Opened
+2024-05-17 20:41:07,534 [main] INFO snetBAnking - Entered Username
+2024-05-17 20:41:08,669 [main] INFO snetBAnking - Entered Password
+2024-05-17 20:41:14,610 [main] INFO snetBAnking - Login Successfull
+2024-05-17 20:41:14,630 [main] INFO snetBAnking - Login Test Passed
+2024-05-17 20:41:23,486 [main] INFO snetBAnking - URL is Opened
+2024-05-17 21:37:51,529 [main] INFO snetBAnking - URL is Opened
+2024-05-17 21:38:57,828 [main] INFO snetBAnking - URL is Opened
+2024-05-17 21:38:59,056 [main] INFO snetBAnking - Entered Username
+2024-05-17 21:39:00,150 [main] INFO snetBAnking - Entered Password
+2024-05-17 21:39:07,385 [main] INFO snetBAnking - Login Successfull
+2024-05-17 21:39:07,412 [main] INFO snetBAnking - Login Test Passed
+2024-05-17 21:43:02,552 [main] INFO snetBAnking - URL is Opened
+2024-05-17 21:43:03,779 [main] INFO snetBAnking - Entered Username
+2024-05-17 21:43:04,865 [main] INFO snetBAnking - Entered Password
+2024-05-17 21:43:11,826 [main] INFO snetBAnking - Login Successfull
+2024-05-17 21:43:11,840 [main] INFO snetBAnking - Login Test Passed
+2024-05-17 22:00:47,472 [main] INFO snetBAnking - URL is Opened
+2024-05-17 22:01:46,757 [main] INFO snetBAnking - URL is Opened
+2024-05-17 22:08:43,573 [main] INFO snetBAnking - URL is Opened
+2024-05-17 22:10:38,896 [main] INFO snetBAnking - URL is Opened
+2024-05-17 22:11:23,897 [main] INFO snetBAnking - URL is Opened
+2024-05-17 22:17:42,001 [main] INFO snetBAnking - URL is Opened
+2024-05-17 22:52:32,366 [main] INFO snetBAnking - URL is Opened
+2024-05-17 22:54:27,246 [main] INFO snetBAnking - URL is Opened
+2024-05-17 23:06:27,120 [main] INFO snetBAnking - URL is Opened
+2024-05-17 23:09:26,294 [main] INFO snetBAnking - URL is Opened
+2024-05-18 00:03:12,909 [main] INFO snetBAnking - URL is Opened
+2024-05-18 00:03:13,269 [main] INFO snetBAnking - Entered Username
+2024-05-18 00:03:13,412 [main] INFO snetBAnking - Entered Password
+2024-05-18 00:03:15,022 [main] INFO snetBAnking - Login Successfull
+2024-05-18 00:03:15,052 [main] INFO snetBAnking - Login Test Passed
+2024-05-18 00:49:20,028 [main] INFO snetBAnking - URL is Opened
+2024-05-18 00:49:40,558 [main] INFO snetBAnking - URL is Opened
+2024-05-18 00:50:55,823 [main] INFO snetBAnking - URL is Opened
+2024-05-18 00:59:16,919 [main] INFO snetBAnking - URL is Opened
+2024-05-18 01:00:37,968 [main] INFO snetBAnking - URL is Opened
+2024-05-18 01:01:52,440 [main] INFO snetBAnking - URL is Opened
+2024-05-18 01:03:05,063 [main] INFO snetBAnking - URL is Opened
+2024-05-18 11:01:40,766 [main] INFO snetBAnking - URL is Opened
+2024-05-18 11:01:40,980 [main] INFO snetBAnking - Entered Username
+2024-05-18 11:01:41,098 [main] INFO snetBAnking - Entered Password
+2024-05-18 11:01:42,176 [main] INFO snetBAnking - Login Successfull
+2024-05-18 11:01:42,197 [main] INFO snetBAnking - Login Test Passed
+2024-05-18 11:01:50,382 [main] INFO snetBAnking - URL is Opened
+2024-05-18 11:24:55,679 [main] INFO snetBAnking - URL is Opened
+2024-05-18 11:24:55,844 [main] INFO snetBAnking - Entered Username
+2024-05-18 11:24:55,941 [main] INFO snetBAnking - Entered Password
+2024-05-18 11:24:57,244 [main] INFO snetBAnking - Login Successfull
+2024-05-18 11:24:57,273 [main] INFO snetBAnking - Login Test Passed
+2024-05-18 12:31:50,301 [main] INFO snetBAnking - URL is Opened
+2024-05-18 12:31:50,592 [main] INFO snetBAnking - Entered Username
+2024-05-18 12:31:50,757 [main] INFO snetBAnking - Entered Password
+2024-05-18 12:33:24,458 [main] INFO snetBAnking - URL is Opened
+2024-05-18 12:33:24,775 [main] INFO snetBAnking - Entered Username
+2024-05-18 12:33:24,910 [main] INFO snetBAnking - Entered Password
+2024-05-18 12:34:10,729 [main] INFO snetBAnking - URL is Opened
+2024-05-18 12:34:11,050 [main] INFO snetBAnking - Entered Username
+2024-05-18 12:34:11,197 [main] INFO snetBAnking - Entered Password
+2024-05-18 12:34:12,450 [main] INFO snetBAnking - Login Successfull
+2024-05-18 12:34:12,470 [main] INFO snetBAnking - Login Test Passed
+2024-05-18 13:40:19,809 [main] INFO snetBAnking - URL is Opened
+2024-05-18 13:40:30,063 [main] INFO snetBAnking - Login Test Passed
+2024-05-18 13:40:30,088 [main] INFO snetBAnking - Login Passed
+2024-05-18 17:29:57,056 [main] INFO snetBAnking - URL is Opened
+2024-05-18 17:30:06,421 [main] INFO snetBAnking - Login Test Passed
+2024-05-18 17:30:06,434 [main] INFO snetBAnking - Login Passed
+2024-05-18 17:30:36,268 [main] INFO snetBAnking - URL is Opened
+2024-05-18 17:30:46,029 [main] INFO snetBAnking - Login Test Passed
+2024-05-18 17:30:46,039 [main] INFO snetBAnking - Login Passed
+2024-05-18 17:31:39,817 [main] INFO snetBAnking - URL is Opened
+2024-05-18 17:31:50,809 [main] INFO snetBAnking - Login Test Passed
+2024-05-18 17:31:50,819 [main] INFO snetBAnking - Login Passed
+2024-05-19 01:03:28,279 [main] INFO snetBAnking - URL is Opened
+2024-05-19 01:03:37,966 [main] INFO snetBAnking - Login Test Passed
+2024-05-19 01:03:37,985 [main] INFO snetBAnking - Login Passed
+2024-05-19 11:49:22,121 [main] INFO snetBAnking - URL is Opened
+2024-05-19 11:49:37,478 [main] INFO snetBAnking - Login Test Passed
+2024-05-19 11:49:37,500 [main] INFO snetBAnking - Login Passed
+2024-05-19 15:49:48,808 [main] INFO snetBAnking - URL is Opened
+2024-05-19 15:51:45,905 [main] INFO snetBAnking - URL is Opened
+2024-05-19 15:54:30,503 [main] INFO snetBAnking - URL is Opened
+2024-05-19 15:56:05,523 [main] INFO snetBAnking - URL is Opened
+2024-05-19 15:56:09,938 [main] INFO snetBAnking - Entered Username
+2024-05-19 15:56:12,169 [main] INFO snetBAnking - Entered Password
+2024-05-19 15:56:17,458 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-19 16:02:30,689 [main] INFO snetBAnking - URL is Opened
+2024-05-19 16:02:35,063 [main] INFO snetBAnking - Entered Username
+2024-05-19 16:02:37,326 [main] INFO snetBAnking - Entered Password
+2024-05-19 16:02:42,426 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-19 16:02:53,053 [main] INFO snetBAnking - validation started......!
+2024-05-19 16:03:12,381 [main] INFO snetBAnking - URL is Opened
+2024-05-19 16:03:16,764 [main] INFO snetBAnking - Entered Username
+2024-05-19 16:03:18,956 [main] INFO snetBAnking - Entered Password
+2024-05-19 16:03:23,376 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-19 16:03:32,214 [main] INFO snetBAnking - validation started......!
+2024-05-19 16:04:31,224 [main] INFO snetBAnking - URL is Opened
+2024-05-19 16:04:35,578 [main] INFO snetBAnking - Entered Username
+2024-05-19 16:04:37,791 [main] INFO snetBAnking - Entered Password
+2024-05-19 16:04:42,487 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-19 16:04:51,724 [main] INFO snetBAnking - validation started......!
+2024-05-19 16:05:13,062 [main] INFO snetBAnking - URL is Opened
+2024-05-19 16:05:17,399 [main] INFO snetBAnking - Entered Username
+2024-05-19 16:05:19,585 [main] INFO snetBAnking - Entered Password
+2024-05-19 16:05:24,296 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-19 16:05:31,962 [main] INFO snetBAnking - validation started......!
+2024-05-19 16:06:47,509 [main] INFO snetBAnking - URL is Opened
+2024-05-19 16:06:52,212 [main] INFO snetBAnking - Entered Username
+2024-05-19 16:06:54,435 [main] INFO snetBAnking - Entered Password
+2024-05-19 16:06:58,014 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-19 16:07:07,335 [main] INFO snetBAnking - validation started......!
+2024-05-19 16:07:07,364 [main] INFO snetBAnking - Testcase Passed
+2024-05-19 16:08:17,966 [main] INFO snetBAnking - URL is Opened
+2024-05-19 16:08:22,359 [main] INFO snetBAnking - Entered Username
+2024-05-19 16:08:24,480 [main] INFO snetBAnking - Entered Password
+2024-05-19 16:08:28,961 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-19 16:08:41,223 [main] INFO snetBAnking - validation started......!
+2024-05-19 16:08:41,248 [main] INFO snetBAnking - Testcase Passed
+2024-05-19 18:08:15,754 [main] INFO snetBAnking - URL is Opened
+2024-05-19 18:08:16,064 [main] INFO snetBAnking - Entered Username
+2024-05-19 18:08:16,222 [main] INFO snetBAnking - Entered Password
+2024-05-19 18:08:17,712 [main] INFO snetBAnking - Login Successfull
+2024-05-19 18:08:17,737 [main] INFO snetBAnking - Login Test Passed
+2024-05-19 18:08:29,591 [main] INFO snetBAnking - URL is Opened
+2024-05-19 18:08:41,379 [main] INFO snetBAnking - Login Test Passed
+2024-05-19 18:08:41,428 [main] INFO snetBAnking - Login Passed
+2024-05-19 18:09:06,932 [main] INFO snetBAnking - URL is Opened
+2024-05-19 18:09:11,139 [main] INFO snetBAnking - Entered Username
+2024-05-19 18:09:13,300 [main] INFO snetBAnking - Entered Password
+2024-05-19 18:09:18,527 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-19 18:09:30,243 [main] INFO snetBAnking - validation started......!
+2024-05-19 18:09:30,259 [main] INFO snetBAnking - Testcase Passed
+2024-05-19 18:10:44,089 [main] INFO snetBAnking - URL is Opened
+2024-05-19 18:10:44,447 [main] INFO snetBAnking - Entered Username
+2024-05-19 18:10:44,582 [main] INFO snetBAnking - Entered Password
+2024-05-19 18:10:45,961 [main] INFO snetBAnking - Login Successfull
+2024-05-19 18:10:45,989 [main] INFO snetBAnking - Login Test Passed
+2024-05-19 18:10:58,130 [main] INFO snetBAnking - URL is Opened
+2024-05-19 18:13:00,897 [main] INFO snetBAnking - URL is Opened
+2024-05-19 18:13:01,222 [main] INFO snetBAnking - Entered Username
+2024-05-19 18:13:01,413 [main] INFO snetBAnking - Entered Password
+2024-05-19 18:13:03,942 [main] INFO snetBAnking - Login Successfull
+2024-05-19 18:13:03,964 [main] INFO snetBAnking - Login Test Passed
+2024-05-19 18:13:15,130 [main] INFO snetBAnking - URL is Opened
+2024-05-19 18:13:28,138 [main] INFO snetBAnking - Login Test Passed
+2024-05-19 18:13:28,171 [main] INFO snetBAnking - Login Passed
+2024-05-19 18:13:54,445 [main] INFO snetBAnking - URL is Opened
+2024-05-19 18:14:56,366 [main] INFO snetBAnking - URL is Opened
+2024-05-19 18:15:06,810 [main] INFO snetBAnking - Login Test Passed
+2024-05-19 18:15:06,828 [main] INFO snetBAnking - Login Passed
+2024-05-19 18:16:59,543 [main] INFO snetBAnking - URL is Opened
+2024-05-19 18:17:07,694 [main] INFO snetBAnking - Login Test Passed
+2024-05-19 18:17:07,711 [main] INFO snetBAnking - Login Passed
+2024-05-19 18:21:16,563 [main] INFO snetBAnking - URL is Opened
+2024-05-19 18:21:24,845 [main] INFO snetBAnking - Login Test Passed
+2024-05-19 18:21:24,861 [main] INFO snetBAnking - Login Passed
+2024-05-19 18:25:00,319 [main] INFO snetBAnking - URL is Opened
+2024-05-19 18:25:08,396 [main] INFO snetBAnking - Login Test Passed
+2024-05-19 18:25:08,411 [main] INFO snetBAnking - Login Passed
+2024-05-19 18:33:40,798 [main] INFO snetBAnking - URL is Opened
+2024-05-19 18:33:48,928 [main] INFO snetBAnking - Login Test Passed
+2024-05-19 18:33:48,942 [main] INFO snetBAnking - Login Passed
+2024-05-19 18:34:51,403 [main] INFO snetBAnking - URL is Opened
+2024-05-19 18:34:59,827 [main] INFO snetBAnking - Login Test Passed
+2024-05-19 18:34:59,849 [main] INFO snetBAnking - Login Passed
+2024-05-19 18:46:19,773 [main] INFO snetBAnking - URL is Opened
+2024-05-19 18:46:27,938 [main] INFO snetBAnking - Login Test Passed
+2024-05-19 18:46:27,955 [main] INFO snetBAnking - Login Passed
+2024-05-19 18:58:04,460 [main] INFO snetBAnking - URL is Opened
+2024-05-19 18:58:11,813 [main] INFO snetBAnking - Login Test Passed
+2024-05-19 18:58:11,834 [main] INFO snetBAnking - Login Passed
+2024-05-19 19:00:22,950 [main] INFO snetBAnking - URL is Opened
+2024-05-19 19:00:31,123 [main] INFO snetBAnking - Login Test Passed
+2024-05-19 19:00:31,151 [main] INFO snetBAnking - Login Passed
+2024-05-19 19:16:03,920 [main] INFO snetBAnking - URL is Opened
+2024-05-19 19:16:12,287 [main] INFO snetBAnking - Login Test Passed
+2024-05-19 19:16:12,288 [main] INFO snetBAnking - Login Passed
+2024-05-19 19:19:38,603 [main] INFO snetBAnking - URL is Opened
+2024-05-19 19:19:46,677 [main] INFO snetBAnking - Login Test Passed
+2024-05-19 19:19:46,693 [main] INFO snetBAnking - Login Passed
+2024-05-19 19:40:00,735 [main] INFO snetBAnking - URL is Opened
+2024-05-19 19:40:09,402 [main] INFO snetBAnking - Login Test Passed
+2024-05-19 19:40:09,440 [main] INFO snetBAnking - Login Passed
+2024-05-19 19:49:49,100 [main] INFO snetBAnking - URL is Opened
+2024-05-19 19:50:00,420 [main] INFO snetBAnking - Login Test Passed
+2024-05-19 19:50:00,446 [main] INFO snetBAnking - Login Passed
+2024-05-19 19:51:49,622 [main] INFO snetBAnking - URL is Opened
+2024-05-19 19:52:26,131 [main] INFO snetBAnking - URL is Opened
+2024-05-19 19:54:12,184 [main] INFO snetBAnking - URL is Opened
+2024-05-19 19:56:18,131 [main] INFO snetBAnking - URL is Opened
+2024-05-19 19:58:21,092 [main] INFO snetBAnking - URL is Opened
+2024-05-19 20:00:05,686 [main] INFO snetBAnking - URL is Opened
+2024-05-19 20:01:23,579 [main] INFO snetBAnking - URL is Opened
+2024-05-19 20:01:27,887 [main] INFO snetBAnking - Entered Username
+2024-05-19 20:01:29,990 [main] INFO snetBAnking - Entered Password
+2024-05-19 20:01:33,935 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-19 20:01:41,103 [main] INFO snetBAnking - validation started......!
+2024-05-19 20:01:41,117 [main] INFO snetBAnking - Testcase Passed
+2024-05-19 20:03:10,744 [main] INFO snetBAnking - URL is Opened
+2024-05-19 20:03:15,137 [main] INFO snetBAnking - Entered Username
+2024-05-19 20:03:17,260 [main] INFO snetBAnking - Entered Password
+2024-05-19 20:03:21,644 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-19 20:03:31,622 [main] INFO snetBAnking - validation started......!
+2024-05-19 20:03:31,650 [main] INFO snetBAnking - Testcase Passed
+2024-05-19 20:05:45,369 [main] INFO snetBAnking - URL is Opened
+2024-05-19 20:05:47,908 [main] INFO snetBAnking - Entered Username
+2024-05-19 20:05:49,093 [main] INFO snetBAnking - Entered Password
+2024-05-19 20:05:52,862 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-19 20:06:03,195 [main] INFO snetBAnking - validation started......!
+2024-05-19 20:07:14,557 [main] INFO snetBAnking - URL is Opened
+2024-05-19 20:07:16,956 [main] INFO snetBAnking - Entered Username
+2024-05-19 20:07:18,257 [main] INFO snetBAnking - Entered Password
+2024-05-19 20:07:20,678 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-19 20:07:30,425 [main] INFO snetBAnking - validation started......!
+2024-05-19 20:07:30,449 [main] INFO snetBAnking - Testcase Passed
+2024-05-19 20:08:21,777 [main] INFO snetBAnking - URL is Opened
+2024-05-19 20:08:24,197 [main] INFO snetBAnking - Entered Username
+2024-05-19 20:08:25,366 [main] INFO snetBAnking - Entered Password
+2024-05-19 20:08:27,388 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-19 20:08:36,843 [main] INFO snetBAnking - validation started......!
+2024-05-19 20:08:36,870 [main] INFO snetBAnking - Testcase Passed
+2024-05-19 20:10:23,528 [main] INFO snetBAnking - URL is Opened
+2024-05-19 20:10:25,852 [main] INFO snetBAnking - Entered Username
+2024-05-19 20:10:27,068 [main] INFO snetBAnking - Entered Password
+2024-05-19 20:10:29,412 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-19 20:10:38,078 [main] INFO snetBAnking - validation started......!
+2024-05-19 20:10:38,094 [main] INFO snetBAnking - Testcase Passed
+2024-05-19 20:11:32,992 [main] INFO snetBAnking - URL is Opened
+2024-05-19 20:11:35,400 [main] INFO snetBAnking - Entered Username
+2024-05-19 20:11:36,668 [main] INFO snetBAnking - Entered Password
+2024-05-19 20:11:38,639 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-19 20:11:48,753 [main] INFO snetBAnking - validation started......!
+2024-05-19 20:11:48,780 [main] INFO snetBAnking - Testcase Passed
+2024-05-19 20:15:10,118 [main] INFO snetBAnking - URL is Opened
+2024-05-19 20:15:12,509 [main] INFO snetBAnking - Entered Username
+2024-05-19 20:15:13,690 [main] INFO snetBAnking - Entered Password
+2024-05-19 20:15:44,408 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-19 20:16:12,335 [main] INFO snetBAnking - validation started......!
+2024-05-19 20:16:12,359 [main] INFO snetBAnking - Testcase Passed
+2024-05-19 20:17:12,645 [main] INFO snetBAnking - URL is Opened
+2024-05-19 20:17:57,012 [main] INFO snetBAnking - URL is Opened
+2024-05-19 20:18:23,319 [main] INFO snetBAnking - URL is Opened
+2024-05-19 20:18:25,695 [main] INFO snetBAnking - Entered Username
+2024-05-19 20:18:26,882 [main] INFO snetBAnking - Entered Password
+2024-05-19 20:18:28,626 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-19 20:18:40,050 [main] INFO snetBAnking - validation started......!
+2024-05-19 20:18:40,081 [main] INFO snetBAnking - Testcase Passed
+2024-05-19 20:20:17,179 [main] INFO snetBAnking - URL is Opened
+2024-05-19 20:20:17,531 [main] INFO snetBAnking - Entered Username
+2024-05-19 20:20:17,681 [main] INFO snetBAnking - Entered Password
+2024-05-19 20:20:19,476 [main] INFO snetBAnking - Login Successfull
+2024-05-19 20:20:19,494 [main] INFO snetBAnking - Login Test Passed
+2024-05-19 20:21:54,280 [main] INFO snetBAnking - URL is Opened
+2024-05-19 20:21:54,479 [main] INFO snetBAnking - Entered Username
+2024-05-19 20:21:54,581 [main] INFO snetBAnking - Entered Password
+2024-05-19 20:21:56,069 [main] INFO snetBAnking - Login Successfull
+2024-05-19 20:21:56,084 [main] INFO snetBAnking - Login Test Passed
+2024-05-19 20:24:33,052 [main] INFO snetBAnking - URL is Opened
+2024-05-19 20:24:33,294 [main] INFO snetBAnking - Entered Username
+2024-05-19 20:24:33,399 [main] INFO snetBAnking - Entered Password
+2024-05-19 20:24:34,596 [main] INFO snetBAnking - Login Successfull
+2024-05-19 20:24:34,611 [main] INFO snetBAnking - Login Test Passed
+2024-05-19 20:26:08,013 [main] INFO snetBAnking - URL is Opened
+2024-05-19 20:26:08,342 [main] INFO snetBAnking - Entered Username
+2024-05-19 20:26:08,609 [main] INFO snetBAnking - Entered Password
+2024-05-19 20:26:09,794 [main] INFO snetBAnking - Login Successfull
+2024-05-19 20:26:09,803 [main] INFO snetBAnking - Login Test Passed
+2024-05-19 20:27:17,923 [main] INFO snetBAnking - URL is Opened
+2024-05-19 20:27:18,091 [main] INFO snetBAnking - Entered Username
+2024-05-19 20:27:18,187 [main] INFO snetBAnking - Entered Password
+2024-05-19 20:27:19,993 [main] INFO snetBAnking - Login Successfull
+2024-05-19 20:27:20,001 [main] INFO snetBAnking - Login Test Passed
+2024-05-19 20:30:38,695 [main] INFO snetBAnking - URL is Opened
+2024-05-19 20:30:38,859 [main] INFO snetBAnking - Entered Username
+2024-05-19 20:30:38,965 [main] INFO snetBAnking - Entered Password
+2024-05-19 20:30:40,707 [main] INFO snetBAnking - Login Successfull
+2024-05-19 20:30:40,719 [main] INFO snetBAnking - Login Test Passed
+2024-05-19 20:33:52,184 [main] INFO snetBAnking - URL is Opened
+2024-05-19 20:33:52,420 [main] INFO snetBAnking - Entered Username
+2024-05-19 20:33:52,541 [main] INFO snetBAnking - Entered Password
+2024-05-19 20:33:53,966 [main] INFO snetBAnking - Login Successfull
+2024-05-19 20:33:53,975 [main] INFO snetBAnking - Login Test Passed
+2024-05-19 20:33:53,976 [main] INFO snetBAnking - validation started......!
+2024-05-19 20:33:53,998 [main] INFO snetBAnking - TestCase failed
+2024-05-19 20:35:33,307 [main] INFO snetBAnking - URL is Opened
+2024-05-19 20:35:33,621 [main] INFO snetBAnking - Entered Username
+2024-05-19 20:35:33,786 [main] INFO snetBAnking - Entered Password
+2024-05-19 20:35:34,996 [main] INFO snetBAnking - Login Successfull
+2024-05-19 20:35:35,009 [main] INFO snetBAnking - Login Test Passed
+2024-05-19 20:36:42,823 [main] INFO snetBAnking - URL is Opened
+2024-05-19 20:38:33,215 [main] INFO snetBAnking - URL is Opened
+2024-05-19 20:42:06,972 [main] INFO snetBAnking - URL is Opened
+2024-05-19 20:44:09,868 [main] INFO snetBAnking - URL is Opened
+2024-05-19 20:45:16,373 [main] INFO snetBAnking - URL is Opened
+2024-05-19 20:49:41,575 [main] INFO snetBAnking - URL is Opened
+2024-05-19 20:54:38,872 [main] INFO snetBAnking - URL is Opened
+2024-05-20 10:41:52,460 [main] INFO snetBAnking - URL is Opened
+2024-05-20 10:43:04,350 [main] INFO snetBAnking - URL is Opened
+2024-05-20 10:44:49,448 [main] INFO snetBAnking - URL is Opened
+2024-05-20 10:46:46,251 [main] INFO snetBAnking - URL is Opened
+2024-05-20 10:46:46,557 [main] INFO snetBAnking - Entered Username
+2024-05-20 10:46:46,716 [main] INFO snetBAnking - Entered Password
+2024-05-20 10:46:48,398 [main] INFO snetBAnking - Login Successfull
+2024-05-20 10:46:48,426 [main] INFO snetBAnking - Login Test Passed
+2024-05-20 10:46:59,263 [main] INFO snetBAnking - URL is Opened
+2024-05-20 10:48:10,342 [main] INFO snetBAnking - URL is Opened
+2024-05-20 10:48:12,611 [main] INFO snetBAnking - Entered Username
+2024-05-20 10:48:13,773 [main] INFO snetBAnking - Entered Password
+2024-05-20 10:48:17,282 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-20 10:48:26,997 [main] INFO snetBAnking - validation started......!
+2024-05-20 10:49:40,656 [main] INFO snetBAnking - URL is Opened
+2024-05-20 10:49:43,002 [main] INFO snetBAnking - Entered Username
+2024-05-20 10:49:44,192 [main] INFO snetBAnking - Entered Password
+2024-05-20 10:49:47,986 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-20 10:49:59,718 [main] INFO snetBAnking - validation started......!
+2024-05-20 10:49:59,744 [main] INFO snetBAnking - Testcase Passed
+2024-05-20 10:51:47,758 [main] INFO snetBAnking - URL is Opened
+2024-05-20 10:51:50,184 [main] INFO snetBAnking - Entered Username
+2024-05-20 10:51:51,394 [main] INFO snetBAnking - Entered Password
+2024-05-20 10:51:53,748 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-20 10:52:03,567 [main] INFO snetBAnking - validation started......!
+2024-05-20 10:52:03,602 [main] INFO snetBAnking - Testcase Passed
+2024-05-20 11:01:28,592 [main] INFO snetBAnking - URL is Opened
+2024-05-20 11:01:31,234 [main] INFO snetBAnking - Entered Username
+2024-05-20 11:01:32,351 [main] INFO snetBAnking - Entered Password
+2024-05-20 11:01:34,965 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-20 11:01:43,862 [main] INFO snetBAnking - validation started......!
+2024-05-20 11:01:43,905 [main] INFO snetBAnking - Testcase Passed
+2024-05-20 11:02:26,153 [main] INFO snetBAnking - URL is Opened
+2024-05-20 11:02:28,544 [main] INFO snetBAnking - Entered Username
+2024-05-20 11:02:29,819 [main] INFO snetBAnking - Entered Password
+2024-05-20 11:02:32,285 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-20 11:02:41,635 [main] INFO snetBAnking - validation started......!
+2024-05-20 11:02:41,649 [main] INFO snetBAnking - Testcase Passed
+2024-05-20 11:04:30,490 [main] INFO snetBAnking - URL is Opened
+2024-05-20 11:04:32,986 [main] INFO snetBAnking - Entered Username
+2024-05-20 11:04:34,186 [main] INFO snetBAnking - Entered Password
+2024-05-20 11:04:36,810 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-20 11:04:46,442 [main] INFO snetBAnking - validation started......!
+2024-05-20 11:04:46,471 [main] INFO snetBAnking - Testcase Passed
+2024-05-20 11:06:20,801 [main] INFO snetBAnking - URL is Opened
+2024-05-20 11:06:23,122 [main] INFO snetBAnking - Entered Username
+2024-05-20 11:06:24,430 [main] INFO snetBAnking - Entered Password
+2024-05-20 11:06:26,738 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-20 11:06:36,054 [main] INFO snetBAnking - validation started......!
+2024-05-20 11:06:36,086 [main] INFO snetBAnking - Testcase Passed
+2024-05-20 11:07:27,950 [main] INFO snetBAnking - URL is Opened
+2024-05-20 11:07:30,404 [main] INFO snetBAnking - Entered Username
+2024-05-20 11:07:31,664 [main] INFO snetBAnking - Entered Password
+2024-05-20 11:07:36,417 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-20 11:07:43,044 [main] INFO snetBAnking - validation started......!
+2024-05-20 11:08:26,962 [main] INFO snetBAnking - URL is Opened
+2024-05-20 11:08:29,366 [main] INFO snetBAnking - Entered Username
+2024-05-20 11:08:30,546 [main] INFO snetBAnking - Entered Password
+2024-05-20 11:08:33,621 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-20 11:08:42,517 [main] INFO snetBAnking - validation started......!
+2024-05-20 11:08:42,539 [main] INFO snetBAnking - Testcase Passed
+2024-05-20 11:13:08,607 [main] INFO snetBAnking - URL is Opened
+2024-05-20 11:13:10,963 [main] INFO snetBAnking - Entered Username
+2024-05-20 11:13:12,176 [main] INFO snetBAnking - Entered Password
+2024-05-20 11:13:14,359 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-20 11:13:23,341 [main] INFO snetBAnking - validation started......!
+2024-05-20 11:13:23,374 [main] INFO snetBAnking - Testcase Passed
+2024-05-20 11:16:18,553 [main] INFO snetBAnking - URL is Opened
+2024-05-20 11:16:20,893 [main] INFO snetBAnking - Entered Username
+2024-05-20 11:16:22,062 [main] INFO snetBAnking - Entered Password
+2024-05-20 11:16:24,058 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-20 11:16:31,395 [main] INFO snetBAnking - validation started......!
+2024-05-20 11:16:31,428 [main] INFO snetBAnking - Testcase Passed
+2024-05-20 11:20:47,615 [main] INFO snetBAnking - URL is Opened
+2024-05-20 11:20:49,945 [main] INFO snetBAnking - Entered Username
+2024-05-20 11:20:51,114 [main] INFO snetBAnking - Entered Password
+2024-05-20 11:20:53,142 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-20 11:21:00,422 [main] INFO snetBAnking - validation started......!
+2024-05-20 11:21:00,450 [main] INFO snetBAnking - Testcase Passed
+2024-05-20 11:22:04,163 [main] INFO snetBAnking - URL is Opened
+2024-05-20 11:22:06,506 [main] INFO snetBAnking - Entered Username
+2024-05-20 11:22:07,696 [main] INFO snetBAnking - Entered Password
+2024-05-20 11:22:10,450 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-20 11:22:20,847 [main] INFO snetBAnking - validation started......!
+2024-05-20 11:22:20,881 [main] INFO snetBAnking - Testcase Passed
+2024-05-20 11:23:19,872 [main] INFO snetBAnking - URL is Opened
+2024-05-20 11:24:37,731 [main] INFO snetBAnking - URL is Opened
+2024-05-20 12:05:04,607 [main] INFO snetBAnking - URL is Opened
+2024-05-20 12:05:04,905 [main] INFO snetBAnking - Entered Username
+2024-05-20 12:05:05,045 [main] INFO snetBAnking - Entered Password
+2024-05-20 12:05:08,142 [main] INFO snetBAnking - Login Successfull
+2024-05-20 12:05:08,165 [main] INFO snetBAnking - Login Test Passed
+2024-05-20 12:07:47,689 [main] INFO snetBAnking - URL is Opened
+2024-05-20 12:07:47,926 [main] INFO snetBAnking - Entered Username
+2024-05-20 12:07:48,080 [main] INFO snetBAnking - Entered Password
+2024-05-20 12:07:50,303 [main] INFO snetBAnking - Login Successfull
+2024-05-20 12:07:50,329 [main] INFO snetBAnking - Login Test Passed
+2024-05-20 12:08:22,348 [main] INFO snetBAnking - URL is Opened
+2024-05-20 12:08:22,587 [main] INFO snetBAnking - Entered Username
+2024-05-20 12:08:22,685 [main] INFO snetBAnking - Entered Password
+2024-05-20 12:08:24,746 [main] INFO snetBAnking - Login Successfull
+2024-05-20 12:08:24,803 [main] INFO snetBAnking - Login Test Passed
+2024-05-20 12:08:37,100 [main] INFO snetBAnking - URL is Opened
+2024-05-20 12:08:48,354 [main] INFO snetBAnking - Login Test Passed
+2024-05-20 12:08:48,377 [main] INFO snetBAnking - Login Passed
+2024-05-20 12:11:31,237 [main] INFO snetBAnking - URL is Opened
+2024-05-20 12:11:33,730 [main] INFO snetBAnking - Entered Username
+2024-05-20 12:11:34,953 [main] INFO snetBAnking - Entered Password
+2024-05-20 12:11:38,444 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-20 12:11:47,225 [main] INFO snetBAnking - validation started......!
+2024-05-20 13:15:35,339 [main] INFO snetBAnking - URL is Opened
+2024-05-20 13:15:37,702 [main] INFO snetBAnking - Entered Username
+2024-05-20 13:15:38,905 [main] INFO snetBAnking - Entered Password
+2024-05-20 13:15:41,157 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-20 13:18:04,153 [main] INFO snetBAnking - URL is Opened
+2024-05-20 13:18:06,835 [main] INFO snetBAnking - Entered Username
+2024-05-20 13:18:08,016 [main] INFO snetBAnking - Entered Password
+2024-05-20 13:18:11,478 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-20 13:18:57,231 [main] INFO snetBAnking - URL is Opened
+2024-05-20 13:18:59,646 [main] INFO snetBAnking - Entered Username
+2024-05-20 13:19:00,841 [main] INFO snetBAnking - Entered Password
+2024-05-20 13:19:03,084 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-20 13:19:30,569 [main] INFO snetBAnking - URL is Opened
+2024-05-20 13:19:33,074 [main] INFO snetBAnking - Entered Username
+2024-05-20 13:19:34,255 [main] INFO snetBAnking - Entered Password
+2024-05-20 13:19:36,882 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-20 13:19:44,813 [main] INFO snetBAnking - validation started......!
+2024-05-20 13:19:44,841 [main] INFO snetBAnking - Testcase Passed
+2024-05-20 13:20:22,914 [main] INFO snetBAnking - URL is Opened
+2024-05-20 13:20:25,282 [main] INFO snetBAnking - Entered Username
+2024-05-20 13:20:26,460 [main] INFO snetBAnking - Entered Password
+2024-05-20 13:20:29,003 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-20 13:20:37,558 [main] INFO snetBAnking - validation started......!
+2024-05-20 13:20:37,583 [main] INFO snetBAnking - Testcase Passed
+2024-05-20 13:33:11,910 [main] INFO snetBAnking - URL is Opened
+2024-05-20 13:33:14,280 [main] INFO snetBAnking - Entered Username
+2024-05-20 13:33:15,575 [main] INFO snetBAnking - Entered Password
+2024-05-20 13:33:17,685 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-20 13:33:24,424 [main] INFO snetBAnking - validation started......!
+2024-05-20 13:33:24,451 [main] INFO snetBAnking - Testcase Passed
+2024-05-20 13:33:52,260 [main] INFO snetBAnking - URL is Opened
+2024-05-20 13:33:54,655 [main] INFO snetBAnking - Entered Username
+2024-05-20 13:33:56,053 [main] INFO snetBAnking - Entered Password
+2024-05-20 13:34:04,230 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-20 13:35:26,754 [main] INFO snetBAnking - URL is Opened
+2024-05-20 13:35:29,039 [main] INFO snetBAnking - Entered Username
+2024-05-20 13:35:30,300 [main] INFO snetBAnking - Entered Password
+2024-05-20 13:35:35,454 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-20 13:35:40,039 [main] INFO snetBAnking - URL is Opened
+2024-05-20 13:35:42,296 [main] INFO snetBAnking - validation started......!
+2024-05-20 13:35:42,320 [main] INFO snetBAnking - Testcase Passed
+2024-05-20 13:35:42,472 [main] INFO snetBAnking - Entered Username
+2024-05-20 13:35:43,886 [main] INFO snetBAnking - Entered Password
+2024-05-20 13:35:46,165 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-20 13:35:52,858 [main] INFO snetBAnking - validation started......!
+2024-05-20 13:35:52,881 [main] INFO snetBAnking - Testcase Passed
+2024-05-20 13:39:35,602 [main] INFO snetBAnking - URL is Opened
+2024-05-20 13:39:38,195 [main] INFO snetBAnking - Entered Username
+2024-05-20 13:39:39,372 [main] INFO snetBAnking - Entered Password
+2024-05-20 13:39:41,351 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-20 13:39:48,214 [main] INFO snetBAnking - validation started......!
+2024-05-20 13:39:48,239 [main] INFO snetBAnking - Testcase Passed
+2024-05-20 13:40:07,826 [main] INFO snetBAnking - URL is Opened
+2024-05-20 14:02:35,847 [main] INFO snetBAnking - URL is Opened
+2024-05-20 14:02:38,248 [main] INFO snetBAnking - Entered Username
+2024-05-20 14:02:39,473 [main] INFO snetBAnking - Entered Password
+2024-05-20 14:02:41,529 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-20 14:02:48,186 [main] INFO snetBAnking - validation started......!
+2024-05-20 14:02:48,215 [main] INFO snetBAnking - Testcase Passed
+2024-05-20 14:08:08,580 [main] INFO snetBAnking - URL is Opened
+2024-05-20 14:08:11,157 [main] INFO snetBAnking - Entered Username
+2024-05-20 14:08:12,363 [main] INFO snetBAnking - Entered Password
+2024-05-20 14:08:14,040 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-20 14:08:22,470 [main] INFO snetBAnking - validation started......!
+2024-05-20 14:08:22,489 [main] INFO snetBAnking - Testcase Passed
+2024-05-20 14:20:28,958 [main] INFO snetBAnking - URL is Opened
+2024-05-20 14:22:39,249 [main] INFO snetBAnking - URL is Opened
+2024-05-20 14:22:41,626 [main] INFO snetBAnking - Entered Username
+2024-05-20 14:22:42,868 [main] INFO snetBAnking - Entered Password
+2024-05-20 14:22:45,237 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-20 14:22:51,154 [main] INFO snetBAnking - validation started......!
+2024-05-20 14:22:51,292 [main] INFO snetBAnking - Testcase Passed
+2024-05-20 14:25:32,325 [main] INFO snetBAnking - URL is Opened
+2024-05-20 14:25:34,638 [main] INFO snetBAnking - Entered Username
+2024-05-20 14:25:35,832 [main] INFO snetBAnking - Entered Password
+2024-05-20 14:25:38,095 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-20 14:25:43,028 [main] INFO snetBAnking - validation started......!
+2024-05-20 14:27:07,839 [main] INFO snetBAnking - URL is Opened
+2024-05-20 14:27:10,364 [main] INFO snetBAnking - Entered Username
+2024-05-20 14:27:11,616 [main] INFO snetBAnking - Entered Password
+2024-05-20 14:27:13,782 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-20 14:27:19,530 [main] INFO snetBAnking - validation started......!
+2024-05-20 14:28:55,490 [main] INFO snetBAnking - URL is Opened
+2024-05-20 14:28:57,782 [main] INFO snetBAnking - Entered Username
+2024-05-20 14:28:58,919 [main] INFO snetBAnking - Entered Password
+2024-05-20 14:28:59,954 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-20 14:29:08,102 [main] INFO snetBAnking - validation started......!
+2024-05-20 14:29:08,132 [main] INFO snetBAnking - Testcase Passed
+2024-05-20 14:29:11,412 [main] INFO snetBAnking - Logout Passed
+2024-05-20 15:54:56,551 [main] INFO snetBAnking - URL is Opened
+2024-05-20 15:54:56,809 [main] INFO snetBAnking - Entered Username
+2024-05-20 15:54:56,921 [main] INFO snetBAnking - Entered Password
+2024-05-20 15:54:59,655 [main] INFO snetBAnking - Logout Passed
+2024-05-20 15:56:18,033 [main] INFO snetBAnking - URL is Opened
+2024-05-20 15:56:31,440 [main] INFO snetBAnking - Login Test Passed
+2024-05-20 15:56:31,450 [main] INFO snetBAnking - Login Passed
+2024-05-20 15:56:39,912 [main] INFO snetBAnking - Logout Passed
+2024-05-20 15:57:28,508 [main] INFO snetBAnking - URL is Opened
+2024-05-20 15:57:30,817 [main] INFO snetBAnking - Entered Username
+2024-05-20 15:57:31,925 [main] INFO snetBAnking - Entered Password
+2024-05-20 15:57:32,910 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-20 15:57:38,744 [main] INFO snetBAnking - validation started......!
+2024-05-20 15:57:38,759 [main] INFO snetBAnking - Testcase Passed
+2024-05-20 15:57:41,994 [main] INFO snetBAnking - Logout Passed
+2024-05-20 21:58:50,384 [main] INFO snetBAnking - URL is Opened
+2024-05-20 22:01:11,229 [main] INFO snetBAnking - URL is Opened
+2024-05-20 22:01:13,499 [main] INFO snetBAnking - Entered Username
+2024-05-20 22:01:14,740 [main] INFO snetBAnking - Entered Password
+2024-05-20 22:01:16,812 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-20 22:01:23,179 [main] INFO snetBAnking - validation started......!
+2024-05-20 22:01:23,211 [main] INFO snetBAnking - Testcase Passed
+2024-05-20 22:01:26,497 [main] INFO snetBAnking - Logout Passed
+2024-05-20 22:06:17,532 [main] INFO snetBAnking - URL is Opened
+2024-05-20 22:06:19,869 [main] INFO snetBAnking - Entered Username
+2024-05-20 22:06:21,058 [main] INFO snetBAnking - Entered Password
+2024-05-20 22:06:22,824 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-20 22:06:34,022 [main] INFO snetBAnking - Logout Passed
+2024-05-21 00:24:09,896 [main] INFO snetBAnking - URL is Opened
+2024-05-21 00:24:12,145 [main] INFO snetBAnking - Entered Username
+2024-05-21 00:24:13,249 [main] INFO snetBAnking - Entered Password
+2024-05-21 00:24:15,961 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-21 00:24:26,427 [main] INFO snetBAnking - Logout Passed
+2024-05-21 00:27:16,572 [main] INFO snetBAnking - URL is Opened
+2024-05-21 00:27:18,798 [main] INFO snetBAnking - Entered Username
+2024-05-21 00:27:19,918 [main] INFO snetBAnking - Entered Password
+2024-05-21 00:27:21,845 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-21 00:27:32,113 [main] INFO snetBAnking - Logout Passed
+2024-05-21 00:27:59,809 [main] INFO snetBAnking - URL is Opened
+2024-05-21 00:28:02,113 [main] INFO snetBAnking - Entered Username
+2024-05-21 00:28:03,243 [main] INFO snetBAnking - Entered Password
+2024-05-21 00:28:05,263 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-21 00:28:15,460 [main] INFO snetBAnking - Logout Passed
+2024-05-21 00:28:51,629 [main] INFO snetBAnking - URL is Opened
+2024-05-21 00:28:53,977 [main] INFO snetBAnking - Entered Username
+2024-05-21 00:28:55,066 [main] INFO snetBAnking - Entered Password
+2024-05-21 00:28:56,898 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-21 00:29:03,880 [main] INFO snetBAnking - validation started......!
+2024-05-21 00:29:03,903 [main] INFO snetBAnking - Testcase Passed
+2024-05-21 00:29:07,105 [main] INFO snetBAnking - Logout Passed
+2024-05-21 00:29:33,573 [main] INFO snetBAnking - URL is Opened
+2024-05-21 00:29:35,804 [main] INFO snetBAnking - Entered Username
+2024-05-21 00:29:36,894 [main] INFO snetBAnking - Entered Password
+2024-05-21 00:29:38,711 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-21 00:29:45,511 [main] INFO snetBAnking - validation started......!
+2024-05-21 00:29:45,537 [main] INFO snetBAnking - Testcase Passed
+2024-05-21 00:29:48,741 [main] INFO snetBAnking - Logout Passed
+2024-05-21 00:47:02,768 [main] INFO snetBAnking - URL is Opened
+2024-05-21 00:47:05,063 [main] INFO snetBAnking - Entered Username
+2024-05-21 00:47:06,150 [main] INFO snetBAnking - Entered Password
+2024-05-21 00:47:08,020 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-21 00:47:15,937 [main] INFO snetBAnking - validation started......!
+2024-05-21 00:47:15,951 [main] INFO snetBAnking - Testcase Passed
+2024-05-21 00:47:19,124 [main] INFO snetBAnking - Logout Passed
+2024-05-21 00:56:56,061 [main] INFO snetBAnking - URL is Opened
+2024-05-21 00:56:58,338 [main] INFO snetBAnking - Entered Username
+2024-05-21 00:56:59,476 [main] INFO snetBAnking - Entered Password
+2024-05-21 00:57:01,740 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-21 00:57:08,433 [main] INFO snetBAnking - validation started......!
+2024-05-21 00:57:08,464 [main] INFO snetBAnking - Testcase Passed
+2024-05-21 00:57:11,645 [main] INFO snetBAnking - Logout Passed
+2024-05-21 00:59:38,013 [main] INFO snetBAnking - URL is Opened
+2024-05-21 00:59:40,370 [main] INFO snetBAnking - Entered Username
+2024-05-21 00:59:41,487 [main] INFO snetBAnking - Entered Password
+2024-05-21 00:59:43,530 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-21 01:00:14,735 [main] INFO snetBAnking - URL is Opened
+2024-05-21 01:00:17,055 [main] INFO snetBAnking - Entered Username
+2024-05-21 01:00:18,139 [main] INFO snetBAnking - Entered Password
+2024-05-21 01:00:20,343 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-21 01:00:30,552 [main] INFO snetBAnking - Logout Passed
+2024-05-21 01:01:10,777 [main] INFO snetBAnking - URL is Opened
+2024-05-21 01:01:13,010 [main] INFO snetBAnking - Entered Username
+2024-05-21 01:01:14,117 [main] INFO snetBAnking - Entered Password
+2024-05-21 01:01:16,156 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-21 01:01:22,943 [main] INFO snetBAnking - validation started......!
+2024-05-21 01:01:22,969 [main] INFO snetBAnking - Testcase Passed
+2024-05-21 01:01:26,142 [main] INFO snetBAnking - Logout Passed
+2024-05-21 01:03:13,556 [main] INFO snetBAnking - URL is Opened
+2024-05-21 01:03:15,899 [main] INFO snetBAnking - Entered Username
+2024-05-21 01:03:17,017 [main] INFO snetBAnking - Entered Password
+2024-05-21 01:03:18,935 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-21 01:03:25,909 [main] INFO snetBAnking - validation started......!
+2024-05-21 01:03:25,939 [main] INFO snetBAnking - Testcase Passed
+2024-05-21 01:03:29,124 [main] INFO snetBAnking - Logout Passed
+2024-05-21 01:04:34,041 [main] INFO snetBAnking - URL is Opened
+2024-05-21 01:04:36,293 [main] INFO snetBAnking - Entered Username
+2024-05-21 01:04:37,416 [main] INFO snetBAnking - Entered Password
+2024-05-21 01:04:39,321 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-21 01:04:43,791 [main] INFO snetBAnking - validation started......!
+2024-05-21 01:05:40,057 [main] INFO snetBAnking - URL is Opened
+2024-05-21 01:05:42,318 [main] INFO snetBAnking - Entered Username
+2024-05-21 01:05:43,438 [main] INFO snetBAnking - Entered Password
+2024-05-21 01:05:45,473 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-21 01:05:52,001 [main] INFO snetBAnking - validation started......!
+2024-05-21 01:05:52,015 [main] INFO snetBAnking - Testcase Passed
+2024-05-21 01:07:07,606 [main] INFO snetBAnking - URL is Opened
+2024-05-21 01:07:09,889 [main] INFO snetBAnking - Entered Username
+2024-05-21 01:07:11,010 [main] INFO snetBAnking - Entered Password
+2024-05-21 01:07:12,828 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-21 01:07:18,166 [main] INFO snetBAnking - validation started......!
+2024-05-21 01:08:00,523 [main] INFO snetBAnking - URL is Opened
+2024-05-21 01:08:02,738 [main] INFO snetBAnking - Entered Username
+2024-05-21 01:08:03,895 [main] INFO snetBAnking - Entered Password
+2024-05-21 01:08:06,582 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-21 01:08:17,809 [main] INFO snetBAnking - validation started......!
+2024-05-21 01:08:17,824 [main] INFO snetBAnking - Testcase Passed
+2024-05-21 01:09:08,621 [main] INFO snetBAnking - URL is Opened
+2024-05-21 01:09:10,796 [main] INFO snetBAnking - Entered Username
+2024-05-21 01:09:11,885 [main] INFO snetBAnking - Entered Password
+2024-05-21 01:09:14,413 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-21 01:11:37,878 [main] INFO snetBAnking - URL is Opened
+2024-05-21 01:11:40,073 [main] INFO snetBAnking - Entered Username
+2024-05-21 01:11:41,208 [main] INFO snetBAnking - Entered Password
+2024-05-21 01:11:43,261 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-21 01:11:54,219 [main] INFO snetBAnking - validation started......!
+2024-05-21 01:11:54,243 [main] INFO snetBAnking - TestCase failed
+2024-05-21 01:13:23,547 [main] INFO snetBAnking - URL is Opened
+2024-05-21 01:13:25,716 [main] INFO snetBAnking - Entered Username
+2024-05-21 01:13:26,821 [main] INFO snetBAnking - Entered Password
+2024-05-21 01:13:29,805 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-21 01:13:35,353 [main] INFO snetBAnking - validation started......!
+2024-05-21 01:13:35,376 [main] INFO snetBAnking - Testcase Passed
+2024-05-21 01:14:12,135 [main] INFO snetBAnking - URL is Opened
+2024-05-21 01:14:14,384 [main] INFO snetBAnking - Entered Username
+2024-05-21 01:14:15,480 [main] INFO snetBAnking - Entered Password
+2024-05-21 01:14:18,465 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-21 01:14:32,360 [main] INFO snetBAnking - validation started......!
+2024-05-21 01:14:32,379 [main] INFO snetBAnking - Testcase Passed
+2024-05-21 01:15:15,046 [main] INFO snetBAnking - URL is Opened
+2024-05-21 01:15:17,199 [main] INFO snetBAnking - Entered Username
+2024-05-21 01:15:18,289 [main] INFO snetBAnking - Entered Password
+2024-05-21 01:15:20,321 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-21 01:15:26,002 [main] INFO snetBAnking - validation started......!
+2024-05-21 01:15:26,016 [main] INFO snetBAnking - Testcase Passed
+2024-05-21 01:15:26,026 [main] INFO snetBAnking - Logout Passed
+2024-05-21 01:16:02,111 [main] INFO snetBAnking - URL is Opened
+2024-05-21 01:16:02,278 [main] INFO snetBAnking - Entered Username
+2024-05-21 01:16:02,372 [main] INFO snetBAnking - Entered Password
+2024-05-21 01:16:03,576 [main] INFO snetBAnking - Login Successfull
+2024-05-21 01:16:03,597 [main] INFO snetBAnking - Login Test Passed
+2024-05-21 01:16:04,444 [main] INFO snetBAnking - Logout Passed
+2024-05-21 01:16:25,850 [main] INFO snetBAnking - URL is Opened
+2024-05-21 01:16:34,018 [main] INFO snetBAnking - Login Test Passed
+2024-05-21 01:16:34,029 [main] INFO snetBAnking - Login Passed
+2024-05-21 01:16:40,548 [main] INFO snetBAnking - Logout Passed
+2024-05-21 01:16:58,303 [main] INFO snetBAnking - URL is Opened
+2024-05-21 01:17:00,475 [main] INFO snetBAnking - Entered Username
+2024-05-21 01:19:55,248 [main] INFO snetBAnking - URL is Opened
+2024-05-21 01:19:55,406 [main] INFO snetBAnking - Entered Username
+2024-05-21 01:19:55,499 [main] INFO snetBAnking - Entered Password
+2024-05-21 01:19:56,697 [main] INFO snetBAnking - Login Successfull
+2024-05-21 01:19:56,716 [main] INFO snetBAnking - Login Test Passed
+2024-05-21 01:19:57,533 [main] INFO snetBAnking - Logout Passed
+2024-05-21 01:20:17,701 [main] INFO snetBAnking - URL is Opened
+2024-05-21 01:20:25,850 [main] INFO snetBAnking - Login Test Passed
+2024-05-21 01:20:25,861 [main] INFO snetBAnking - Login Passed
+2024-05-21 01:20:32,932 [main] INFO snetBAnking - Logout Passed
+2024-05-21 01:20:49,925 [main] INFO snetBAnking - URL is Opened
+2024-05-21 01:20:52,066 [main] INFO snetBAnking - Entered Username
+2024-05-21 01:20:53,203 [main] INFO snetBAnking - Entered Password
+2024-05-21 01:20:56,084 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-21 01:21:04,490 [main] INFO snetBAnking - validation started......!
+2024-05-21 01:21:04,502 [main] INFO snetBAnking - Testcase Passed
+2024-05-21 01:21:04,503 [main] INFO snetBAnking - Logout Passed
+2024-05-21 01:21:11,148 [main] INFO snetBAnking - Logout Passed
+2024-05-21 01:22:02,708 [main] INFO snetBAnking - URL is Opened
+2024-05-21 01:22:10,954 [main] INFO snetBAnking - Login Test Passed
+2024-05-21 01:22:10,964 [main] INFO snetBAnking - Login Passed
+2024-05-21 01:22:17,515 [main] INFO snetBAnking - Logout Passed
+2024-05-21 01:24:02,951 [main] INFO snetBAnking - URL is Opened
+2024-05-21 01:24:11,073 [main] INFO snetBAnking - Login Test Passed
+2024-05-21 01:24:11,083 [main] INFO snetBAnking - Login Passed
+2024-05-21 01:24:18,702 [main] INFO snetBAnking - URL is Opened
+2024-05-21 01:25:05,030 [main] INFO snetBAnking - URL is Opened
+2024-05-21 01:25:05,265 [main] INFO snetBAnking - Entered Username
+2024-05-21 01:25:05,384 [main] INFO snetBAnking - Entered Password
+2024-05-21 01:25:07,444 [main] INFO snetBAnking - Login Successfull
+2024-05-21 01:25:07,455 [main] INFO snetBAnking - Login Test Passed
+2024-05-21 01:25:15,590 [main] INFO snetBAnking - URL is Opened
+2024-05-21 01:25:23,765 [main] INFO snetBAnking - Login Test Passed
+2024-05-21 01:25:23,774 [main] INFO snetBAnking - Login Passed
+2024-05-21 01:25:33,831 [main] INFO snetBAnking - URL is Opened
+2024-05-21 01:25:46,413 [main] INFO snetBAnking - URL is Opened
+2024-05-21 01:25:57,824 [main] INFO snetBAnking - URL is Opened
+2024-05-21 01:26:10,428 [main] INFO snetBAnking - URL is Opened
+2024-05-21 01:26:30,266 [main] INFO snetBAnking - URL is Opened
+2024-05-21 01:26:33,198 [main] INFO snetBAnking - Entered Username
+2024-05-21 01:26:34,407 [main] INFO snetBAnking - Entered Password
+2024-05-21 01:26:37,768 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-21 01:26:53,102 [main] INFO snetBAnking - validation started......!
+2024-05-21 01:26:53,123 [main] INFO snetBAnking - Testcase Passed
+2024-05-21 01:26:53,125 [main] INFO snetBAnking - Logout Passed
+2024-05-21 16:37:24,454 [main] INFO snetBAnking - URL is Opened
+2024-05-21 16:41:07,335 [main] INFO snetBAnking - URL is Opened
+2024-05-21 16:41:09,564 [main] INFO snetBAnking - Entered Username
+2024-05-21 16:41:10,710 [main] INFO snetBAnking - Entered Password
+2024-05-21 16:41:11,951 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-21 16:41:18,555 [main] INFO snetBAnking - validation started......!
+2024-05-21 16:41:18,583 [main] INFO snetBAnking - Testcase Passed
+2024-05-21 16:41:18,589 [main] INFO snetBAnking - Logout Passed
+2024-05-21 16:46:02,084 [main] INFO snetBAnking - URL is Opened
+2024-05-21 16:46:04,369 [main] INFO snetBAnking - Entered Username
+2024-05-21 16:46:05,460 [main] INFO snetBAnking - Entered Password
+2024-05-21 16:46:08,304 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-21 16:46:16,637 [main] INFO snetBAnking - validation started......!
+2024-05-21 16:46:16,650 [main] INFO snetBAnking - Testcase Passed
+2024-05-21 16:46:16,652 [main] INFO snetBAnking - Logout Passed
+2024-05-21 19:43:08,594 [main] INFO snetBAnking - URL is Opened
+2024-05-21 19:43:10,777 [main] INFO snetBAnking - Entered Username
+2024-05-21 19:43:11,884 [main] INFO snetBAnking - Entered Password
+2024-05-21 19:43:13,929 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-21 19:43:20,298 [main] INFO snetBAnking - validation started......!
+2024-05-21 19:49:26,960 [main] INFO snetBAnking - URL is Opened
+2024-05-21 19:49:29,316 [main] INFO snetBAnking - Entered Username
+2024-05-21 19:49:30,447 [main] INFO snetBAnking - Entered Password
+2024-05-21 19:49:32,405 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-21 19:49:41,404 [main] INFO snetBAnking - validation started......!
+2024-05-21 19:49:41,429 [main] INFO snetBAnking - Testcase Passed
+2024-05-21 19:49:41,433 [main] INFO snetBAnking - Logout Passed
+2024-05-22 11:57:00,617 [main] INFO snetBAnking - URL is Opened
+2024-05-22 11:57:11,125 [main] INFO snetBAnking - URL is Opened
+2024-05-22 11:57:15,007 [main] INFO snetBAnking - Entered Username
+2024-05-22 11:57:15,138 [main] INFO snetBAnking - Entered Password
+2024-05-22 11:57:21,661 [main] INFO snetBAnking - Login Successfull
+2024-05-22 11:57:21,716 [main] INFO snetBAnking - Login Test Passed
+2024-05-22 11:57:48,019 [main] INFO snetBAnking - URL is Opened
+2024-05-22 11:57:59,706 [main] INFO snetBAnking - Login Test Passed
+2024-05-22 11:57:59,724 [main] INFO snetBAnking - Login Passed
+2024-05-22 11:58:13,663 [main] INFO snetBAnking - URL is Opened
+2024-05-22 11:58:27,314 [main] INFO snetBAnking - URL is Opened
+2024-05-22 11:58:43,951 [main] INFO snetBAnking - URL is Opened
+2024-05-22 11:58:56,817 [main] INFO snetBAnking - URL is Opened
+2024-05-22 11:59:20,059 [main] INFO snetBAnking - URL is Opened
+2024-05-22 11:59:22,453 [main] INFO snetBAnking - Entered Username
+2024-05-22 11:59:23,809 [main] INFO snetBAnking - Entered Password
+2024-05-22 11:59:31,870 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-22 11:59:39,064 [main] INFO snetBAnking - URL is Opened
+2024-05-22 11:59:47,115 [main] INFO snetBAnking - Login Test Passed
+2024-05-22 11:59:47,126 [main] INFO snetBAnking - Login Passed
+2024-05-22 11:59:57,754 [main] INFO snetBAnking - URL is Opened
+2024-05-22 12:00:13,137 [main] INFO snetBAnking - URL is Opened
+2024-05-22 12:00:13,438 [main] INFO snetBAnking - Entered Username
+2024-05-22 12:00:13,582 [main] INFO snetBAnking - Entered Password
+2024-05-22 12:00:14,995 [main] INFO snetBAnking - Login Successfull
+2024-05-22 12:00:15,017 [main] INFO snetBAnking - Login Test Passed
+2024-05-22 12:00:24,297 [main] INFO snetBAnking - URL is Opened
+2024-05-22 12:00:33,479 [main] INFO snetBAnking - Login Test Passed
+2024-05-22 12:00:33,532 [main] INFO snetBAnking - Login Passed
+2024-05-22 12:00:44,519 [main] INFO snetBAnking - URL is Opened
+2024-05-22 12:00:58,005 [main] INFO snetBAnking - URL is Opened
+2024-05-22 12:01:09,620 [main] INFO snetBAnking - URL is Opened
+2024-05-22 12:01:21,684 [main] INFO snetBAnking - URL is Opened
+2024-05-22 12:01:42,600 [main] INFO snetBAnking - URL is Opened
+2024-05-22 12:01:44,845 [main] INFO snetBAnking - Entered Username
+2024-05-22 12:01:46,057 [main] INFO snetBAnking - Entered Password
+2024-05-22 12:01:48,368 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-22 12:02:55,103 [main] INFO snetBAnking - URL is Opened
+2024-05-22 12:02:55,396 [main] INFO snetBAnking - Entered Username
+2024-05-22 12:02:55,546 [main] INFO snetBAnking - Entered Password
+2024-05-22 12:02:57,810 [main] INFO snetBAnking - Login Successfull
+2024-05-22 12:02:57,836 [main] INFO snetBAnking - Login Test Passed
+2024-05-22 12:03:06,060 [main] INFO snetBAnking - URL is Opened
+2024-05-22 12:03:14,202 [main] INFO snetBAnking - Login Test Passed
+2024-05-22 12:03:14,228 [main] INFO snetBAnking - Login Passed
+2024-05-22 12:03:23,519 [main] INFO snetBAnking - URL is Opened
+2024-05-22 12:03:37,497 [main] INFO snetBAnking - URL is Opened
+2024-05-22 12:03:55,542 [main] INFO snetBAnking - URL is Opened
+2024-05-22 12:04:08,316 [main] INFO snetBAnking - URL is Opened
+2024-05-22 12:04:31,669 [main] INFO snetBAnking - URL is Opened
+2024-05-22 12:04:34,021 [main] INFO snetBAnking - Entered Username
+2024-05-22 12:04:35,218 [main] INFO snetBAnking - Entered Password
+2024-05-22 12:04:39,206 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-22 12:05:29,371 [main] INFO snetBAnking - URL is Opened
+2024-05-22 12:05:29,695 [main] INFO snetBAnking - Entered Username
+2024-05-22 12:05:29,808 [main] INFO snetBAnking - Entered Password
+2024-05-22 12:05:32,136 [main] INFO snetBAnking - Login Successfull
+2024-05-22 12:05:32,163 [main] INFO snetBAnking - Login Test Passed
+2024-05-22 12:05:53,548 [main] INFO snetBAnking - URL is Opened
+2024-05-22 12:06:02,976 [main] INFO snetBAnking - Login Test Passed
+2024-05-22 12:06:03,013 [main] INFO snetBAnking - Login Passed
+2024-05-22 12:06:11,584 [main] INFO snetBAnking - URL is Opened
+2024-05-22 12:06:32,574 [main] INFO snetBAnking - URL is Opened
+2024-05-22 12:06:51,684 [main] INFO snetBAnking - URL is Opened
+2024-05-22 12:07:03,021 [main] INFO snetBAnking - URL is Opened
+2024-05-22 12:07:19,057 [main] INFO snetBAnking - URL is Opened
+2024-05-22 12:07:21,271 [main] INFO snetBAnking - Entered Username
+2024-05-22 12:07:22,409 [main] INFO snetBAnking - Entered Password
+2024-05-22 12:07:24,968 [main] INFO snetBAnking - Providing Customer details.....!
+2024-05-22 12:07:32,436 [main] INFO snetBAnking - validation started......!
+2024-05-22 12:07:32,450 [main] INFO snetBAnking - Testcase Passed
+2024-05-22 12:07:32,452 [main] INFO snetBAnking - Logout Passed
+2024-05-22 12:12:53,589 [main] INFO snetBAnking - URL is Opened
+2024-05-22 12:13:24,719 [main] INFO snetBAnking - URL is Opened
+2024-05-22 12:17:54,620 [main] INFO snetBAnking - URL is Opened
